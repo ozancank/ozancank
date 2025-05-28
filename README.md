@@ -21,7 +21,7 @@ Since then, my journey has taken me through a wide range of technologies and fra
 - **LinkedIn:** [ozancank](https://www.linkedin.com/in/ozancank/)
 
 ### ⚡ Fun Fact
-** Coding. Coding. And, did I mention... more coding. ** 😄
+- **Coding. Coding. And, did I mention... more coding.** 😄
 
 ---
 
