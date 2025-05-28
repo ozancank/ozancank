@@ -28,5 +28,5 @@ Since then, my journey has taken me through a wide range of technologies and fra
 > “Code is like humor. When you have to explain it, it’s bad.”  
 > — Cory House
 >
-> “Talk is cheap. Show me the code.”
-> — Linus Torvalds
+> “Talk is cheap. Show me the code.”  
+> — inus Torvalds
