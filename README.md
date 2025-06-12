@@ -29,4 +29,4 @@ Since then, my journey has taken me through a wide range of technologies and fra
 > — Cory House
 >
 > “Talk is cheap. Show me the code.”  
-> — inus Torvalds
+> — Linus Torvalds
