@@ -1,4 +1,4 @@
-# Hi there, I'm Ozan Can K! 👋
+# Hi there, I'm Ozan Can Kösemez! 👋
 
 ## 👨‍💻 Full-Stack Developer | ⚙️ Mechanical Engineer
 
