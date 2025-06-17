@@ -6,6 +6,8 @@
 I entered the world of programming in 2003, starting with Delphi and HTML, and developed myself in many different languages.
 Since then, my journey has taken me through a wide range of technologies and frameworks, where I’ve honed my skills in designing scalable, maintainable, and high-performance applications.
 
+[📕 My Repos](https://github.com/ozancank?tab=repositories)
+
 ### 🛠️ Top Skills & Technologies
 - **Languages:** C# (.NET), Java, JavaScript, Node.js, Go, Kotlin, SQL, NoSQL DBs
 - **Frameworks:** .NET, Entity Framework Core, Docker
